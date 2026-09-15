@@ -35,9 +35,6 @@ A modern, feature-rich todo application built with React, TypeScript, and styled
 
 </div>
 
-### ℹ️ About the Live Demo
-> **Note:** GitHub doesn't support embedded iframes for security reasons. That's why we use a direct Vercel link (safest & fastest). The app loads instantly on Vercel with all features fully functional. Your data is saved in browser storage, so you can pick up where you left off!
-
 ---
 
 ## ✨ Features
