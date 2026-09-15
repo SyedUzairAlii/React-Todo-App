@@ -1,7 +1,10 @@
 import styled from 'styled-components'
 
 export const AppContainer = styled.div`
+  width: 100%;
   min-height: 100vh;
+  min-height: 100dvh;
+  box-sizing: border-box;
   background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
   display: flex;
   align-items: center;
@@ -52,6 +55,7 @@ export const InputContainer = styled.div`
 
 export const TodoInput = styled.input`
   flex: 1;
+  min-width: 0;
   padding: 12px 16px;
   border: 2px solid #e0e0e0;
   border-radius: 8px;

@@ -6,9 +6,9 @@ A modern, feature-rich todo application built with React, TypeScript, and styled
 
 <div align="center">
 
-[![Vercel Deploy](https://img.shields.io/badge/Vercel-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://react-todo-app-zeta-six.vercel.app/)
+[![Vercel Deploy](https://img.shields.io/badge/Vercel-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://syeduzairali-dev-m157.vercel.app/)
 
-**[👉 Click Here to Try the App Now 👈](https://react-todo-app-zeta-six.vercel.app/)**
+**[👉 Click Here to Try the App Now 👈](https://syeduzairali-dev-m157.vercel.app/)**
 
 </div>
 
