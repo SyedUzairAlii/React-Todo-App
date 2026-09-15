@@ -4,9 +4,39 @@ A modern, feature-rich todo application built with React, TypeScript, and styled
 
 ## 🚀 Live Demo
 
-**Try the app right now:** [React Todo App on Vercel](https://react-todo-app-zeta-six.vercel.app/)
+<div align="center">
 
-No installation needed! Just click the link above to start using the app in your browser.
+[![Vercel Deploy](https://img.shields.io/badge/Vercel-Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://react-todo-app-zeta-six.vercel.app/)
+
+**[👉 Click Here to Try the App Now 👈](https://react-todo-app-zeta-six.vercel.app/)**
+
+</div>
+
+> ✨ No installation needed! The app opens in a new tab. Start adding tasks immediately and test all features in your browser.
+
+### 📌 About the Live Demo
+- ✅ Fully functional React app deployed on Vercel
+- 💾 Your todos are saved in browser localStorage
+- 📱 Works on mobile, tablet, and desktop
+- 🚀 Lightning-fast performance
+
+---
+
+## 📊 Tech Badges
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-19-blue?style=flat-square&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue?style=flat-square&logo=typescript)
+![Vite](https://img.shields.io/badge/Vite-8.3-purple?style=flat-square&logo=vite)
+![styled-components](https://img.shields.io/badge/styled--components-6.5-pink?style=flat-square&logo=styled-components)
+![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
+
+</div>
+
+### ℹ️ About the Live Demo
+> **Note:** GitHub doesn't support embedded iframes for security reasons. That's why we use a direct Vercel link (safest & fastest). The app loads instantly on Vercel with all features fully functional. Your data is saved in browser storage, so you can pick up where you left off!
 
 ---
 
@@ -38,7 +68,23 @@ No installation needed! Just click the link above to start using the app in your
 
 ---
 
-## 📦 Project Structure
+## � Screenshots & Demo
+
+> 💡 **Want to see it in action?** Click the live demo link at the top to try the app right now!
+
+### App Features in Action:
+- 🎨 Beautiful gradient UI with purple theme
+- 📅 Interactive calendar for date selection
+- ✅ Easy task management with checkboxes
+- 📍 Visual dots on dates with todos
+- 🎯 Quick filters for task status
+- 📱 Mobile-responsive layout
+
+*Screenshots and GIFs coming soon! Feel free to take a screenshot and submit a PR to add them.*
+
+---
+
+## �📦 Project Structure
 
 ```
 src/
